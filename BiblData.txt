@@ -1,0 +1,17 @@
+Titel,Autor,Jahr
+"Der Alte Mann und das Meer",Ernest Hemingway,1952
+"Die Verwandlung",Franz Kafka,1915
+"1984",George Orwell,1949
+"Krieg und Frieden",Leo Tolstoi,1869
+"Die Buddenbrooks",Thomas Mann,1901
+"Faust",Johann Wolfgang von Goethe,1808
+"Auf der Suche nach der verlorenen Zeit",Marcel Proust,1913
+"Don Quijote",Miguel de Cervantes,1605
+"Pride and Prejudice",Jane Austen,1813
+"The Great Gatsby",F. Scott Fitzgerald,1925
+"Der Zauberberg",Thomas Mann,1924
+"Ulysses",James Joyce,1922
+"Anna Karenina",Leo Tolstoi,1878
+"Winnie-the-Pooh",A. A. Milne,1926
+"Moby-Dick",Herman Melville,1851
+"Romeo and Juliet",William Shakespeare,1597

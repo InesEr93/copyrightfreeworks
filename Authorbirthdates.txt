@@ -1,0 +1,15 @@
+Name,Geburtsdatum,Todesdatum
+Ernest Hemingway,21-07-1899,02-07-1961
+Franz Kafka,03-07-1883,03-06-1924
+George Orwell,25-06-1903,21-01-1950
+Leo Tolstoi,09-09-1828,20-11-1910
+Thomas Mann,06-06-1875,12-08-1955
+Johann Wolfgang von Goethe,28-08-1749,22-03-1832
+Marcel Proust,10-07-1871,18-11-1922
+Miguel de Cervantes,29-09-1547,22-04-1616
+Jane Austen,16-12-1775,18-07-1817
+F. Scott Fitzgerald,24-09-1896,21-12-1940
+James Joyce,02-02-1882,13-01-1941
+A. A. Milne,18-01-1882,31-01-1956
+Herman Melville,01-08-1819,28-09-1891
+William Shakespeare,23-04-1564,23-04-1616
